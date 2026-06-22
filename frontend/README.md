@@ -14,4 +14,4 @@ It includes authentication, CRUD operations, and a dashboard for managing proper
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
